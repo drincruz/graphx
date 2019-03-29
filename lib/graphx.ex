@@ -1,18 +1,10 @@
 defmodule Graphx do
   @moduledoc """
+  TODO write better doc.
+
   Documentation for Graphx.
   """
+  use GenServer
 
-  @doc """
-  Hello world.
 
-  ## Examples
-
-      iex> Graphx.hello()
-      :world
-
-  """
-  def hello do
-    :world
-  end
 end
